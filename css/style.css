@@ -1,0 +1,22 @@
+form{  
+    margin-top: 20%;
+}
+
+
+.fa-solid{
+    font-size: 100px;
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(91, 158, 235);
+}
+
+.form-label{
+    color: rgb(255, 252, 252);
+    font-size: 30px;
+}
+
+.btn{
+    width: 30%;
+} 
