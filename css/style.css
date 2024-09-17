@@ -1,5 +1,6 @@
 form{  
     margin-top: 20%;
+    text-align:left;
 }
 
 
@@ -9,14 +10,22 @@ form{
 }
 
 body{
-    background-color: rgb(91, 158, 235);
+    background-color: rgb(179, 187, 182);
 }
 
 .form-label{
-    color: rgb(255, 252, 252);
+    color: rgb(0, 0, 0);
     font-size: 30px;
 }
 
 .btn{
     width: 30%;
 } 
+.img_cad {
+    margin-top: 80px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 30px;
+}
