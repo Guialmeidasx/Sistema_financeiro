@@ -52,3 +52,44 @@ projeto/
     ├── img3.svg
     ├── Cadastro.svg
     └── img_cad.svg
+
+## 🎨 Interface
+
+O sistema possui uma interface moderna utilizando:
+
+Cards;
+Botões personalizados;
+Campos de formulário;
+Ilustrações;
+Gradientes;
+Sombras;
+Layout responsivo.
+📱 Responsividade
+
+O projeto foi desenvolvido pensando também em dispositivos móveis.
+
+Através do Bootstrap e das media queries do CSS, a interface se adapta a diferentes tamanhos de tela, como:
+
+💻 Computadores;
+💻 Notebooks;
+📱 Smartphones;
+📱 Tablets.
+🎓 Atividade acadêmica
+
+Este projeto foi desenvolvido como atividade acadêmica da ETEC Adolpho Berezin — Mongaguá/SP.
+
+A atividade tem como objetivo desenvolver e aprimorar conhecimentos relacionados a HTML, CSS, Bootstrap e JavaScript, colocando em prática conceitos de desenvolvimento de interfaces web.
+
+## 👨‍💻 Desenvolvedor
+
+Guilherme
+
+📍 Mongaguá - SP
+
+🏫 ETEC Adolpho Berezin
+
+📅 2026
+
+## 📚 Finalidade
+
+Projeto desenvolvido para fins acadêmicos e educacionais, com o objetivo de praticar conceitos de desenvolvimento web e construção de interfaces.
