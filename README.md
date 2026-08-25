@@ -1,12 +1,54 @@
-# Sistema_financeiro
+# 💼 Sistema de Cadastro e Controle
 
-https://fontawesome.com/icons/coins?f=classic&s=solid
+## 📌 Sobre o projeto
 
-https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
+Este projeto consiste no desenvolvimento de uma interface web para um sistema de cadastro e controle, utilizando tecnologias voltadas para o desenvolvimento web.
 
+A aplicação possui páginas para login, cadastro de usuários e gerenciamento de informações, buscando proporcionar uma interface simples, organizada e responsiva.
 
-código para icon: <link rel="icon" href="css/Contabilidade.png" type="Contabilidade.png"> 
+O projeto utiliza o framework Bootstrap para auxiliar na construção da interface e CSS para personalização do layout.
 
-bootstrap: <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+## 🎯 Objetivo
 
-Linkar css no html: <link href="css/style.css" rel="stylesheet">
+O objetivo principal do projeto é colocar em prática conceitos de desenvolvimento web, trabalhando com estruturação de páginas, formulários, responsividade e organização de interfaces.
+
+## 🚀 Funcionalidades
+
+- 🔐 Tela de Login
+- 👤 Cadastro de usuários
+- 📋 Cadastro de informações
+- 🔄 Navegação entre páginas
+- 📱 Layout responsivo
+- 🎨 Interface estilizada com CSS
+- 🧩 Componentes utilizando Bootstrap
+- 🖼️ Utilização de imagens e ilustrações SVG
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Font Awesome
+
+## 📂 Estrutura do projeto
+
+```text
+projeto/
+│
+├── index.html
+├── cad_usuario.html
+├── Categoria.html
+├── Lançamento.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── img/
+    ├── Contabilidade.png
+    ├── img3.svg
+    ├── Cadastro.svg
+    └── img_cad.svg

@@ -1,31 +1,101 @@
-form{  
-    margin-top: 20%;
-    text-align:left;
+* {
+    box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 
-.fa-solid{
-    font-size: 100px;
-    color: aliceblue;
+    background: linear-gradient(
+        135deg,
+        #dfe9f3,
+        #ffffff
+    );
+
+    min-height: 100vh;
 }
 
-body{
-    background-color: rgb(179, 187, 182);
+.card-login {
+    background-color: white;
+
+    padding: 40px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+
+    max-width: 500px;
+
+    margin: auto;
 }
 
-.form-label{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-}
-
-.btn{
-    width: 30%;
-} 
-.img_cad {
-    margin-top: 80px;
-}
-
-.button {
+.card-login h1 {
     text-align: center;
-    margin-top: 30px;
+
+    font-weight: bold;
+
+    margin-bottom: 10px;
+}
+
+.subtitulo {
+    text-align: center;
+
+    color: #777;
+
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-size: 16px;
+
+    font-weight: bold;
+
+    color: #333;
+}
+
+.form-control {
+    padding: 12px;
+
+    border-radius: 10px;
+
+    border: 1px solid #ccc;
+}
+
+.form-control:focus {
+    border-color: #0d6efd;
+
+    box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.15);
+}
+
+.btn {
+    padding: 12px;
+
+    border-radius: 10px;
+
+    font-weight: bold;
+}
+
+.img_cad {
+    width: 80%;
+
+    max-width: 450px;
+
+    margin: auto;
+}
+
+/* Responsividade */
+
+@media (max-width: 768px) {
+
+    .card-login {
+        padding: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .img_cad {
+        width: 70%;
+
+        margin-bottom: 20px;
+    }
 }
